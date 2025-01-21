@@ -1,0 +1,3 @@
+## [Gas Station](https://leetcode.com/problems/gas-station/)
+
+Existem n estações de postos de gasolina dispostos em um circuito circular, onde cada posto tem uma quantia de combustível específica representado pelo por gas[i]. Nessa questão temos um carro temos um carro com tanque de gasolina ilimitado e custa cost[i] para viajar do posto i para o (i+1). Começamos com o tanque vazio e precisamos determinar se é possível completar o circuito em sentido horário, abastecendo o carro durante o percurso. Se sim, retornamos o índice do posto inicial. Do contrário retornamos -1. O problema garante uma solução única para o problema, caso exista.

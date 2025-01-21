@@ -1,5 +1,5 @@
 ## [Estradas Escuras](https://judge.beecrowd.com/pt/problems/view/1152)
-Problema resolvido com o algoritmo de Kruskall nivel 5 da plataforma beecrowd | 1152
+Problema resolvido com o algoritmo de Kruskall, nivel 5 da plataforma beecrowd | 1152
 
 Nestes dias se pensa muito em economia, mesmo em Byteland. Para reduzir custos operacionais, o governo de Byteland decidiu otimizar a iluminação das estradas. Até agora, todas as rotas eram iluminadas durante toda noite, o que custava 1 Dólar Byteland por metro a cada dia. Para economizar, eles decidiram não iluminar mais todas as estradas e desligar a iluminação de algumas delas. Para ter certeza que os habitantes de Byteland continuem a se sentirem seguros, eles querem otimizar o sistema de tal forma que após desligar a iluminação de algumas estradas à noite, sempre existirá algum caminho iluminado de qualquer junção de Byteland para qualquer outra junção.
 

@@ -41,10 +41,10 @@ O projeto consiste na resolução de questões que percorrem o conteúdo visto e
 - Vídeo: [Implementação 03](https://heylisten64.notion.site/Quest-o-03-182173cd622780df8df9cf496b9c9e28?pvs=4)
 - Autor: [Luiz Gustavo](https://github.com/luiz-gl-campos)
 
-## Problema 4: []()
+## Problema 4: [Festival de Estátuas de Gelo](https://judge.beecrowd.com/pt/problems/view/1034)
 
 - Nível: Difícil
-- Conteúdo: 
+- Conteúdo: Algoritmo Mochila/Troco Mínimo
 - Explicação: [Explicação 04](./explicacao/problema04.md)
 - Implementação: [Código 04](./codigos/questao04.cpp)
 - Vídeo: [Implementação 04](https://heylisten64.notion.site/Quest-o-04-182173cd622780dd972cd6a8ba1d214f?pvs=4)

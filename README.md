@@ -19,7 +19,7 @@ O projeto consiste na resolução de questões que percorrem o conteúdo visto e
 - Nível: Médio
 - Conteúdo: Abordagem de Saldo Acumulado
 - Explicação: [Explicação 01](./explicacao/problema01.md)
-- Implementação: [Código 01](./codigos/questao01.cpp)
+- Implementação: [Código 01](./codigos/questao02.cpp)
 - Vídeo: [Implementação 01](https://heylisten64.notion.site/Quest-o-01-182173cd62278035ae17f066485713fa?pvs=4)
 - Autor: [Gabriela](https://github.com/heylisten64)
 
@@ -28,7 +28,7 @@ O projeto consiste na resolução de questões que percorrem o conteúdo visto e
 - Nível: Difícil
 - Conteúdo: Greedy
 - Explicação: [Explicação 02](./explicacao/problema02.md)
-- Implementação: [Código 02](./codigos/questao02.cpp)
+- Implementação: [Código 02](./codigos/questao01.cpp)
 - Vídeo: [Implementação 02](https://heylisten64.notion.site/Quest-o-02-182173cd622780099354db7ac118ad6b?pvs=4)
 - Autor: [Gabriela](https://github.com/heylisten64)
 
